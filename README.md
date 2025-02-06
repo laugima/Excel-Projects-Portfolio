@@ -2,7 +2,7 @@
 Here you will find SQL projects that have been created as part of my Portfolio.
 
 
-## [1.Bike Buyers Analysis - Excel Data Analytics Project](https://github.com/laugima/Excel-Projects-Portfolio/blob/main/Bike%20Buyers%20Analysis%20-%20Excel%20Data%20Analytics%20Project.xlsx)
+## [1. Bike Buyers Analysis - Excel Data Analytics Project](https://github.com/laugima/Excel-Projects-Portfolio/blob/main/Bike%20Buyers%20Analysis%20-%20Excel%20Data%20Analytics%20Project.xlsx)
 
 This Excel project provides a comprehensive data analysis solution aimed at understanding bicycle purchase behavior and examining demographic and socioeconomic patterns among potential buyers. Using a structured dataset that includes variables such as marital status, gender, income, education, occupation, homeownership and commuting distance, the analysis highlights factors influencing the likelihood of purchasing a bicycle.
 
@@ -20,7 +20,7 @@ This Excel project provides a comprehensive data analysis solution aimed at unde
 This project demonstrates skills in data analysis, visualization, and dashboard creation in Excel, showcasing proficiency in essential tools for a data analyst.
 
 
-## [2.Billionaire Analysis Dashboard – Excel Data Analytics Project](https://github.com/laugima/Excel-Projects-Portfolio/blob/main/Billionaires%20Statistics%20Analysis%20-%20Excel%20Data%20Analytics%20Project.xlsx)
+## [2. Billionaire Analysis Dashboard – Excel Data Analytics Project](https://github.com/laugima/Excel-Projects-Portfolio/blob/main/Billionaires%20Statistics%20Analysis%20-%20Excel%20Data%20Analytics%20Project.xlsx)
 
 This Excel project offers a comprehensive analysis of **the world's top billionaires**, exploring wealth distribution, industries, and geographic regions. The interactive dashboard provides key insights into the demographics and financial metrics of the world's wealthiest individuals.  
 
