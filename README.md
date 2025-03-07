@@ -2,6 +2,7 @@
 This repository showcases **Excel-based data analytics projects** with a business and enterprise focus. Each project demonstrates the use of Excel for market analysis, customer segmentation, and financial insights, helping organizations make data-driven decisions.  
 
 🔹 **Skills Highlighted:** Data Analysis, Business Intelligence, Reporting, Visualization.
+
 🔹 **Tools Used:** Excel (Pivot Tables, Power Query, Macros, Statistical Functions)  
 
 
